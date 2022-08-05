@@ -1,11 +1,2 @@
-my first line in project
-L I T C O GB
-<<<<<<< HEAD
-K I T C O U
-L I T C O GB
-K I T C O U
-P I T C O F
-=======
->>>>>>> parent of 93c3c0f (2 C A)
-123
-321
+
+And this branch too
